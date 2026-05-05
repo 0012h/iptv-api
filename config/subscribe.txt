@@ -2,7 +2,7 @@
 # This is a list of subscription sources, with one subscription address per line
 https://github.com/HJM-ing/GDIPTV/blob/main/tv.m3u
 https://static.wangjx.eu.org/iptv.m3u
-
+https://iptv.catvod.com/tv.m3u
 
 
 [WHITELIST]
